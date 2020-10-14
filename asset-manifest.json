@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/HandposeDetection/static/css/main.5f361e03.chunk.css",
+    "main.js": "/HandposeDetection/static/js/main.2d00cb4b.chunk.js",
+    "main.js.map": "/HandposeDetection/static/js/main.2d00cb4b.chunk.js.map",
+    "runtime-main.js": "/HandposeDetection/static/js/runtime-main.b1317198.js",
+    "runtime-main.js.map": "/HandposeDetection/static/js/runtime-main.b1317198.js.map",
+    "static/js/2.c479ab58.chunk.js": "/HandposeDetection/static/js/2.c479ab58.chunk.js",
+    "static/js/2.c479ab58.chunk.js.map": "/HandposeDetection/static/js/2.c479ab58.chunk.js.map",
+    "index.html": "/HandposeDetection/index.html",
+    "precache-manifest.6d5a6bc5baa25fe89621da7aa6077612.js": "/HandposeDetection/precache-manifest.6d5a6bc5baa25fe89621da7aa6077612.js",
+    "service-worker.js": "/HandposeDetection/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/HandposeDetection/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.c479ab58.chunk.js.LICENSE.txt": "/HandposeDetection/static/js/2.c479ab58.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1317198.js",
+    "static/js/2.c479ab58.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.2d00cb4b.chunk.js"
+  ]
+}
